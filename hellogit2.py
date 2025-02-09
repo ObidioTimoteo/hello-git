@@ -1,1 +1,1 @@
-print("Hello git 2, probando el git reset")
+print("Hello git 2, probando el git reset y se ha abierto rama login")
